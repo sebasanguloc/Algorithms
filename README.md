@@ -8,5 +8,5 @@ En este repositorio de GitHub, encontrarás una recopilación de soluciones a di
 ### Python Solutions
 | Name problem | Solution | Problem link |
 |---------------------|----------|---------------------|
-| Watermelon           | [Solution](solucion1.py) | [Link](https://codeforces.com/problemset/problem/4/A) |
+| Watermelon           | [Solution](/Codeforces/Python/4A-Watermelon.py) | [Link](https://codeforces.com/problemset/problem/4/A) |
 
