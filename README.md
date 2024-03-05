@@ -6,7 +6,8 @@ En este repositorio de GitHub, encontrarás una recopilación de soluciones a di
 ---
 ## Codeforces
 ### Python Solutions
-| Name problem | Solution | Problem link |
+| Name problem | Solution | Level|
 |---------------------|----------|---------------------|
-| Watermelon           | [Solution](/Codeforces/Python/4A-Watermelon.py) | [Link](https://codeforces.com/problemset/problem/4/A) |
+| [Watermelon](https://codeforces.com/problemset/problem/4/A)           | [:heavy_check_mark:](/Codeforces/Python/4A-Watermelon.py) | 800 |
+| [Football](https://codeforces.com/contest/96/problem/A)           | [:heavy_check_mark:](/Codeforces/Python/A-Football.py) | 900 |
 
