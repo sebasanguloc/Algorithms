@@ -12,3 +12,11 @@ En este repositorio de GitHub, encontrarás una recopilación de soluciones a di
 | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A)           | [:heavy_check_mark:](/Codeforces/Python/A-Recovering-a-Small-String.py) | 800 |
 | [Football](https://codeforces.com/contest/96/problem/A)           | [:heavy_check_mark:](/Codeforces/Python/A-Football.py) | 900 |
 
+---
+## HackerRank
+### JavaScript Solutions
+| Name problem | Solution | Level|
+|---------------------|----------|---------------------|
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)           | [:heavy_check_mark:](/HackerRank/JavaScript/Picking-Numbers.js) | Easy |
+
+
