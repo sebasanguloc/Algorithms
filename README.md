@@ -9,5 +9,6 @@ En este repositorio de GitHub, encontrarás una recopilación de soluciones a di
 | Name problem | Solution | Level|
 |---------------------|----------|---------------------|
 | [Watermelon](https://codeforces.com/problemset/problem/4/A)           | [:heavy_check_mark:](/Codeforces/Python/4A-Watermelon.py) | 800 |
+| [Recovering a Small String](https://codeforces.com/contest/1931/problem/A)           | [:heavy_check_mark:](/Codeforces/Python/A-Recovering-a-Small-String.py) | 800 |
 | [Football](https://codeforces.com/contest/96/problem/A)           | [:heavy_check_mark:](/Codeforces/Python/A-Football.py) | 900 |
 
